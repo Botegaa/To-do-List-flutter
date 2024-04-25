@@ -1,16 +1,9 @@
-# flutter_list_app
+# Todo List Flutter
 
-A new Flutter project.
+Projeto de lista de afazeres em flutter.
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+Projeto de Lista de afazeres para reforçar o aprendezido em flutter. Desta vez , foram utilizados widgets visuais como: 'Safe Area', 'Expanded', 'setState', 'shrinkWrap', um bom foco em 'ListView', além de outros ja vistos previamente.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Neste projeto foi utilizado um grande conjunto de logica para algumas funções como, apagar, adicionar e limpar todas as tarefas. Além de salvar os dados da lista quando o aplicativo for fechado.
